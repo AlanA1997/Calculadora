@@ -1,6 +1,6 @@
 # Calculadora
  Calculadora Básica con PHP
-![](imagenes/img1.jpg)
-![](imagenes/img2.jpg)
-![](imagenes/img4.jpg)
-![](imagenes/img5.jpg)
+![](screenshot/img1.jpg)
+![](screenshot/img2.jpg)
+![](screenshot/img4.jpg)
+![](screenshot/img5.jpg)
